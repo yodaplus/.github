@@ -1,6 +1,6 @@
-
-![Logo](https://yodaplus.com/images/og-yodaplus.png)
-
+<p align="center" width="100%">
+    <img width="33%" src="https://yodaplus.com/images/logo-dark.svg"> 
+</p>
 
 ## 🔗 Links
 [![Website](https://img.shields.io/badge/our_website-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://yodaplus.com/)
