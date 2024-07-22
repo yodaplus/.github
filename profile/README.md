@@ -1,5 +1,5 @@
 <p align="center" width="100%">
-    <img width="33%" src="https://yodaplus.com/images/logo-dark.svg"> 
+    <img width="33%" src="https://yodaplus.com/images/home-logo1.png"> 
 </p>
 
 ## 🔗 Links
